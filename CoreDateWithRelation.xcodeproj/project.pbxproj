@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		26A020691A720B0700FD2DEC /* OrderDetils.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A020681A720B0700FD2DEC /* OrderDetils.m */; };
+		26A0206C1A720B0800FD2DEC /* Order.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A0206B1A720B0800FD2DEC /* Order.m */; };
+		26A020701A7219DF00FD2DEC /* SubclassUILabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A0206F1A7219DF00FD2DEC /* SubclassUILabel.m */; };
+		26A020731A72311400FD2DEC /* ipad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26A020721A72311400FD2DEC /* ipad.storyboard */; };
+		26A020981A72511B00FD2DEC /* JVFloatLabeledTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A020931A72511B00FD2DEC /* JVFloatLabeledTextField.m */; };
+		26A020991A72511B00FD2DEC /* JVFloatLabeledTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A020951A72511B00FD2DEC /* JVFloatLabeledTextView.m */; };
+		26A0209A1A72511B00FD2DEC /* NSString+TextDirectionality.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A020971A72511B00FD2DEC /* NSString+TextDirectionality.m */; };
+		26A0209D1A7251FA00FD2DEC /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A0209C1A7251FA00FD2DEC /* SecondViewController.m */; };
+		26A020A41A725D2A00FD2DEC /* SuBclassTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A020A31A725D2A00FD2DEC /* SuBclassTextField.m */; };
 		26A1485D1A70B5B500EF5AD7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A1485C1A70B5B500EF5AD7 /* main.m */; };
 		26A148601A70B5B500EF5AD7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 26A1485F1A70B5B500EF5AD7 /* AppDelegate.m */; };
 		26A148631A70B5B500EF5AD7 /* CoreDateWithRelation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 26A148611A70B5B500EF5AD7 /* CoreDateWithRelation.xcdatamodeld */; };
@@ -28,6 +37,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		26A020671A720B0700FD2DEC /* OrderDetils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrderDetils.h; sourceTree = "<group>"; };
+		26A020681A720B0700FD2DEC /* OrderDetils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrderDetils.m; sourceTree = "<group>"; };
+		26A0206A1A720B0800FD2DEC /* Order.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Order.h; sourceTree = "<group>"; };
+		26A0206B1A720B0800FD2DEC /* Order.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Order.m; sourceTree = "<group>"; };
+		26A0206E1A7219DF00FD2DEC /* SubclassUILabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubclassUILabel.h; sourceTree = "<group>"; };
+		26A0206F1A7219DF00FD2DEC /* SubclassUILabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubclassUILabel.m; sourceTree = "<group>"; };
+		26A020721A72311400FD2DEC /* ipad.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ipad.storyboard; sourceTree = "<group>"; };
+		26A020921A72511B00FD2DEC /* JVFloatLabeledTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JVFloatLabeledTextField.h; sourceTree = "<group>"; };
+		26A020931A72511B00FD2DEC /* JVFloatLabeledTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JVFloatLabeledTextField.m; sourceTree = "<group>"; };
+		26A020941A72511B00FD2DEC /* JVFloatLabeledTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JVFloatLabeledTextView.h; sourceTree = "<group>"; };
+		26A020951A72511B00FD2DEC /* JVFloatLabeledTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JVFloatLabeledTextView.m; sourceTree = "<group>"; };
+		26A020961A72511B00FD2DEC /* NSString+TextDirectionality.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+TextDirectionality.h"; sourceTree = "<group>"; };
+		26A020971A72511B00FD2DEC /* NSString+TextDirectionality.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+TextDirectionality.m"; sourceTree = "<group>"; };
+		26A0209B1A7251FA00FD2DEC /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		26A0209C1A7251FA00FD2DEC /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		26A020A21A725D2A00FD2DEC /* SuBclassTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuBclassTextField.h; sourceTree = "<group>"; };
+		26A020A31A725D2A00FD2DEC /* SuBclassTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SuBclassTextField.m; sourceTree = "<group>"; };
 		26A148571A70B5B500EF5AD7 /* CoreDateWithRelation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDateWithRelation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26A1485B1A70B5B500EF5AD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		26A1485C1A70B5B500EF5AD7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -62,6 +88,75 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		26A0206D1A72199300FD2DEC /* uilabelSubclass */ = {
+			isa = PBXGroup;
+			children = (
+				26A0206E1A7219DF00FD2DEC /* SubclassUILabel.h */,
+				26A0206F1A7219DF00FD2DEC /* SubclassUILabel.m */,
+			);
+			name = uilabelSubclass;
+			sourceTree = "<group>";
+		};
+		26A020711A7230FA00FD2DEC /* StoryBoard */ = {
+			isa = PBXGroup;
+			children = (
+				26A148671A70B5B500EF5AD7 /* Main.storyboard */,
+				26A020721A72311400FD2DEC /* ipad.storyboard */,
+			);
+			name = StoryBoard;
+			sourceTree = "<group>";
+		};
+		26A020911A72511B00FD2DEC /* JVFloatLabeledTextField */ = {
+			isa = PBXGroup;
+			children = (
+				26A020921A72511B00FD2DEC /* JVFloatLabeledTextField.h */,
+				26A020931A72511B00FD2DEC /* JVFloatLabeledTextField.m */,
+				26A020941A72511B00FD2DEC /* JVFloatLabeledTextView.h */,
+				26A020951A72511B00FD2DEC /* JVFloatLabeledTextView.m */,
+				26A020961A72511B00FD2DEC /* NSString+TextDirectionality.h */,
+				26A020971A72511B00FD2DEC /* NSString+TextDirectionality.m */,
+			);
+			path = JVFloatLabeledTextField;
+			sourceTree = "<group>";
+		};
+		26A0209E1A72520300FD2DEC /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				26A0209B1A7251FA00FD2DEC /* SecondViewController.h */,
+				26A0209C1A7251FA00FD2DEC /* SecondViewController.m */,
+				26A148641A70B5B500EF5AD7 /* ViewController.h */,
+				26A148651A70B5B500EF5AD7 /* ViewController.m */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		26A0209F1A72522800FD2DEC /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				26A1485E1A70B5B500EF5AD7 /* AppDelegate.h */,
+				26A1485F1A70B5B500EF5AD7 /* AppDelegate.m */,
+			);
+			name = AppDelegate;
+			sourceTree = "<group>";
+		};
+		26A020A01A725CE200FD2DEC /* SubClass */ = {
+			isa = PBXGroup;
+			children = (
+				26A020A11A725CF000FD2DEC /* TextField */,
+				26A0206D1A72199300FD2DEC /* uilabelSubclass */,
+			);
+			name = SubClass;
+			sourceTree = "<group>";
+		};
+		26A020A11A725CF000FD2DEC /* TextField */ = {
+			isa = PBXGroup;
+			children = (
+				26A020A21A725D2A00FD2DEC /* SuBclassTextField.h */,
+				26A020A31A725D2A00FD2DEC /* SuBclassTextField.m */,
+			);
+			name = TextField;
+			sourceTree = "<group>";
+		};
 		26A1484E1A70B5B400EF5AD7 = {
 			isa = PBXGroup;
 			children = (
@@ -83,15 +178,15 @@
 		26A148591A70B5B500EF5AD7 /* CoreDateWithRelation */ = {
 			isa = PBXGroup;
 			children = (
-				26A1485E1A70B5B500EF5AD7 /* AppDelegate.h */,
-				26A1485F1A70B5B500EF5AD7 /* AppDelegate.m */,
-				26A148641A70B5B500EF5AD7 /* ViewController.h */,
-				26A148651A70B5B500EF5AD7 /* ViewController.m */,
-				26A148671A70B5B500EF5AD7 /* Main.storyboard */,
+				26A020A01A725CE200FD2DEC /* SubClass */,
+				26A0209F1A72522800FD2DEC /* AppDelegate */,
+				26A148831A70B84500EF5AD7 /* CoreData */,
 				26A1486A1A70B5B500EF5AD7 /* Images.xcassets */,
+				26A020911A72511B00FD2DEC /* JVFloatLabeledTextField */,
 				26A1486C1A70B5B500EF5AD7 /* LaunchScreen.xib */,
-				26A148611A70B5B500EF5AD7 /* CoreDateWithRelation.xcdatamodeld */,
+				26A020711A7230FA00FD2DEC /* StoryBoard */,
 				26A1485A1A70B5B500EF5AD7 /* Supporting Files */,
+				26A0209E1A72520300FD2DEC /* ViewControllers */,
 			);
 			path = CoreDateWithRelation;
 			sourceTree = "<group>";
@@ -120,6 +215,18 @@
 				26A148781A70B5B500EF5AD7 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		26A148831A70B84500EF5AD7 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				26A148611A70B5B500EF5AD7 /* CoreDateWithRelation.xcdatamodeld */,
+				26A0206A1A720B0800FD2DEC /* Order.h */,
+				26A0206B1A720B0800FD2DEC /* Order.m */,
+				26A020671A720B0700FD2DEC /* OrderDetils.h */,
+				26A020681A720B0700FD2DEC /* OrderDetils.m */,
+			);
+			name = CoreData;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,6 +309,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26A020731A72311400FD2DEC /* ipad.storyboard in Resources */,
 				26A148691A70B5B500EF5AD7 /* Main.storyboard in Resources */,
 				26A1486E1A70B5B500EF5AD7 /* LaunchScreen.xib in Resources */,
 				26A1486B1A70B5B500EF5AD7 /* Images.xcassets in Resources */,
@@ -222,10 +330,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26A0206C1A720B0800FD2DEC /* Order.m in Sources */,
 				26A148601A70B5B500EF5AD7 /* AppDelegate.m in Sources */,
 				26A1485D1A70B5B500EF5AD7 /* main.m in Sources */,
+				26A020691A720B0700FD2DEC /* OrderDetils.m in Sources */,
+				26A020981A72511B00FD2DEC /* JVFloatLabeledTextField.m in Sources */,
 				26A148661A70B5B500EF5AD7 /* ViewController.m in Sources */,
+				26A020991A72511B00FD2DEC /* JVFloatLabeledTextView.m in Sources */,
 				26A148631A70B5B500EF5AD7 /* CoreDateWithRelation.xcdatamodeld in Sources */,
+				26A0209D1A7251FA00FD2DEC /* SecondViewController.m in Sources */,
+				26A0209A1A72511B00FD2DEC /* NSString+TextDirectionality.m in Sources */,
+				26A020701A7219DF00FD2DEC /* SubclassUILabel.m in Sources */,
+				26A020A41A725D2A00FD2DEC /* SuBclassTextField.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -350,6 +466,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CoreDateWithRelation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -360,6 +477,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CoreDateWithRelation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -418,6 +536,7 @@
 				26A1487F1A70B5B500EF5AD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		26A148801A70B5B500EF5AD7 /* Build configuration list for PBXNativeTarget "CoreDateWithRelationTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +545,7 @@
 				26A148821A70B5B500EF5AD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
